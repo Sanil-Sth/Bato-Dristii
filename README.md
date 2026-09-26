@@ -1,7 +1,7 @@
 # Bato Dristi (बाटो दृष्टि)
 ### AI-Powered Road Hazard Intelligence System
 
-Bato Dristi is a privacy-preserving, AI-powered road intelligence system that turns vehicle cameras into passive sensors — detecting, verifying, and prioritizing road hazards to help municipalities move from reactive to proactive road maintenance.
+Bato Dristi is a privacy-preserving, AI-powered road intelligence system that turns vehicle cameras into passive sensors detecting, verifying, and prioritizing road hazards to help municipalities move from reactive to proactive road maintenance.
 
 Built for **Frogtober**.
 
@@ -18,11 +18,11 @@ Manual inspection → Maintenance decision → Repair
 
 This means authorities often don't know about hazards until they've already gotten worse, manual inspection doesn't scale, and citizen reporting is inconsistent and duplicated.
 
-**The real question:** how can a city continuously understand road conditions and prioritize maintenance — without a small army of inspectors manually checking every street?
+**The real question:** how can a city continuously understand road conditions and prioritize maintenance without a small army of inspectors manually checking every street?
 
 ## 💡 The Solution
 
-Instead of sending dedicated workers out to inspect roads, Bato Dristi turns vehicles that are *already driving* — buses, taxis, delivery fleets, municipal vehicles — into a distributed road-condition sensing network.
+Instead of sending dedicated workers out to inspect roads, Bato Dristi turns vehicles that are *already driving* — buses, taxis, delivery fleets, municipal vehicles into a distributed road-condition sensing network.
 
 ```
 Vehicle Camera / Dashcam
@@ -53,7 +53,7 @@ A single AI detection is just an observation, not a fact. When multiple independ
 
 ##  Privacy by Design
 
-Continuous vehicle footage could capture faces, license plates, homes, and movement patterns — so Bato Dristi is built to minimize data at the source rather than centrally store raw video:
+Continuous vehicle footage could capture faces, license plates, homes, and movement patterns so Bato Dristi is built to minimize data at the source rather than centrally store raw video:
 
 ```
 Footage → AI processes locally → Hazard detected?
